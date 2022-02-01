@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<topic template="Default" lasteditedby="kopac" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Справка</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Справка</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-size:16pt;" translate="true">1.</text><text styleclass="Normal" style="font-size:14pt;" translate="true"> После запуска на экране появляется заставка</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-size:16pt;" translate="true">2.</text><text styleclass="Normal" style="font-size:14pt;" translate="true"> После заставки появляется главная форма, на ней можно увидеть главное меню с помощью которого можно перейти на страницу с выбором статей.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-size:16pt;" translate="true">3.</text><text styleclass="Normal" style="font-size:14pt;" translate="true"> После нажатия на кнопку «Посмотреть информацию», появится окно с информацией которую захотел узнать пользователь.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-size:16pt;" translate="true">4.</text><text styleclass="Normal" style="font-size:14pt;" translate="true"> Вглавном меню пользователь может вызвать справку и узнать подробней о программе, разработчике.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-size:14pt;" translate="true">Разработчик: Копачёв Андрей</text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

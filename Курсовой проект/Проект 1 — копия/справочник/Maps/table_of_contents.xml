@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="443704989480477" build="ALL" modified="2021-06-23T10:00:15.126Z" icon="0" href="New_topic">
+    <caption translate="true">New topic</caption>
+  </topicref>
+  <topicref type="topic" id="443705717844230" build="ALL" modified="2021-06-23T09:43:16.732Z" icon="0" href="Snusologic">
+    <caption translate="true">Help System</caption>
+  </topicref>
+</map>
